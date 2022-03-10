@@ -6,3 +6,5 @@ The output should be saved in the file c
 Added a script that compiles a file and store it i CFILE
 
 Written a sript that generates assembly code of a c program and store it in $CFILE
+
+Script that compiles a C file and creates an executable named cisfun
