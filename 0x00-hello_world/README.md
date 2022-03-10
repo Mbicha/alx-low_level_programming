@@ -12,3 +12,5 @@ Script that compiles a C file and creates an executable named cisfun
 Written a program that prints an output with puts command
 
 Written a program that prints an output using printf command
+
+Added a c program that prints varos sizes
