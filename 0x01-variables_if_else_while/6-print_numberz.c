@@ -7,17 +7,11 @@
 */
 int main(void)
 {
-char ch, q, e;
+int i;
 
-q = 'q';
-e = 'e';
-
-for (ch = 'a'; ch <= 'z'; ch++)
+for (i = '0'; i <= '9'; i++)
 {
-if (ch != q && ch != e)
-{
-putchar(ch);
-}
+putchar(i);
 }
 putchar('\n');
 
