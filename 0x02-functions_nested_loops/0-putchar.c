@@ -2,7 +2,9 @@
 #include "main.h"
 
 /**
-*Checks main then excecute method to print _putchar
+*main - Check description
+*This program prints _putchar
+*Return (0)
 */
 
 int main(void)
