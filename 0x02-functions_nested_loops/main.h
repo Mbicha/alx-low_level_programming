@@ -1,11 +1,5 @@
-/**
-*This header file consists of a prototype of a method
-*to print _putchar
-*/
+#include "_putchar.c"
 
-void my_string()
-{
-printf("%s", "_putchar");
-printf("\n");
-} 
+int _putchar(char c);
 
+void print_alphabet(void);
