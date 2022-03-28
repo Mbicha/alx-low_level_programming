@@ -1,1 +1,1 @@
-This is the first reame in this dir
+This directory contains functions and nested loops in c
