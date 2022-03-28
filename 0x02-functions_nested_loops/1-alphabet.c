@@ -3,7 +3,6 @@
 /**
 *print_alphabet - The function for printing alphabets
 *in lowercase
-*@lower: This is input char
 *
 *Return: Nothing
 */
