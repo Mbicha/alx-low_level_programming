@@ -9,17 +9,20 @@
  */
 int _isalpha(int c)
 {
-int counter;
-int checker = 0;
+int lower, upper;
+int isLetter = 0;
 
-for (counter = 0; counter < 10; counter++)
+for (lower = 'a'; lower <= 'z'; lower++)
 {
-if (c != counter)
+for (upper = 'A'; upper <= 'Z'; upper++)
 {
-checker = 1;
+if (c == lower || c == upper)
+{
+isLetter = 1;
 }
 }
+}
 
-return (checker);
+return (isLetter);
 
 }
