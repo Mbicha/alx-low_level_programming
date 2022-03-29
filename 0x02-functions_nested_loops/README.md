@@ -7,3 +7,4 @@ Task 4: Check if a letter.
 Task 5: Prints the sign of a number.
 Task 6: A program that computes an abs value of an integer.
 Task 7: A function that prints the last digit of a number.
+Task 8: A function to print table nine times starting from 0.
