@@ -7,3 +7,5 @@ Task 1: Function that copies memory area.
 Task 2: Function that locates a character in a string.
 
 Task 3: Function that prints the length of prefix substring.
+
+Task 4: Fuction to search a string for any of a set of bytes.
