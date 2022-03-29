@@ -8,3 +8,5 @@ Task 5: Prints the sign of a number.
 Task 6: A program that computes an abs value of an integer.
 Task 7: A function that prints the last digit of a number.
 Task 8: A function to print table nine times starting from 0.
+Task 10: A function that adds 2 numbers.
+Task 11: Print all natural numbers from n to 98.
