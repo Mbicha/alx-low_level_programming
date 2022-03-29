@@ -9,3 +9,5 @@ Task 2: Function that locates a character in a string.
 Task 3: Function that prints the length of prefix substring.
 
 Task 4: Fuction to search a string for any of a set of bytes.
+
+Task 5: Function to locate substring of a string.
