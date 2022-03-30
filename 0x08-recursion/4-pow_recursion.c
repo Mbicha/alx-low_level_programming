@@ -1,6 +1,7 @@
 #include "main.h"
 
-/**_pow_recursion - Function to power of given integer
+/**
+*_pow_recursion - Function to power of given integer
 *@x: number input
 *@y: number input
 *Return: Result or -1 if y is lower than 0
