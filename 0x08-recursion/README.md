@@ -11,3 +11,5 @@ Task 4: Function to print power of a nmuber
 Task 5: Function to calculater square root.
 
 Task 6: Function to check if a number is prime.
+
+Task 7: Check Palindrome
