@@ -32,7 +32,7 @@ if (len <= 1)
 {
 return (1);
 }
-return (helper_palindrome(s, len));
+return (_palindrome(s, len));
 }
 
 /**
