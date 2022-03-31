@@ -12,4 +12,6 @@ Task 5: Function to calculater square root.
 
 Task 6: Function to check if a number is prime.
 
-Task 7: Check Palindrome
+Task 7: Check Palindrome.
+
+Task 8: Compare 2 strings.
