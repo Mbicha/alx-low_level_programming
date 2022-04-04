@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
-*print_most_numbers - Function that prints most numbers
-*from 0 - 9 followed by new line
+*print_most_numbers - Function that prints most numbers from 0 - 9
+*Do not print 2 and 4
+*followed by new line
 *Return: Always 0
 */
 void print_most_numbers(void)
