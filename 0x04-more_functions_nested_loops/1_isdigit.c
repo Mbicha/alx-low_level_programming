@@ -8,17 +8,17 @@
 int _isdigit(int c)
 {
 int isdigit = 0;
-int counter;
+char counter = '0';
 
-for (counter = 0; counter <10; counter++)
+for (; counter <= '9'; counter++)
 {
 if (c == counter)
 {
-counter = 1;
+isdigit = 1;
 break;
 }
 }
 
-return (counter)
+return (isdigit)
 
 }
