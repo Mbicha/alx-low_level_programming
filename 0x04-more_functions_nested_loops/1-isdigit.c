@@ -12,13 +12,13 @@ char counter = '0';
 
 for (; counter <= '9'; counter++)
 {
-if (c == counter)
+if (counter == c)
 {
 isdigit = 1;
 break;
 }
 }
 
-return (isdigit)
+return (isdigit);
 
 }
