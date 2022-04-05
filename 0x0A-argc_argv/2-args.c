@@ -14,13 +14,7 @@ while (argc--)
 {
 printf("%s\n", *argv++);
 }
-/*int count;
 
-*for (count = 1; count < argc; count++)
-*{
-*printf("%s\n", argv[count]);
-*}
-*/
 return (0);
 
 }
