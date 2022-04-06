@@ -41,7 +41,7 @@ s2++;
 
 s2 = starts_second;
 
-new_str = malloc(sizeof(char) * (len_one + len_two +1));
+new_str = malloc(sizeof(char) * (len_one + len_two + 1));
 
 starts_first = new_str;
 
