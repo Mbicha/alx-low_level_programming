@@ -17,11 +17,10 @@ return (NULL);
 }
 for (; str[i]; i++)
 {
-if ((str[i] != ' ' || *str != '\t') &&
+if ((str[i] != ' ' || *str != '\t') && ((str[i + 1] == ' ' || str[i + 1] == '\t') || str[i + 1] == '\n'))
 {
-((str[i + 1] == ' ' || str[i + 1] == '\t') || str[i + 1] == '\n'))
-}
 count++;
+}
 }
 if (count == 0)
 {
@@ -39,7 +38,9 @@ if (str[i] != ' ' || str[i] != '\t')
 len = 0;
 j = i;
 while ((str[j] != ' ' || str[j] != '\t') && str[j] != '\0')
-{j++, len++;}
+{
+j++, len++;
+}
 array[k] = malloc((len + 1) * sizeof(char));
 if (array[k] == NULL)
 {
