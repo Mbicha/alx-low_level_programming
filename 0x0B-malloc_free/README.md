@@ -5,3 +5,5 @@ Task 1: Function that returns a pointer to a newly allocated space in memory, wh
 Task 2: A function that concatenates strings.
 
 Task 3: A function that returns a pointer to a 2 dimensional array.
+
+Task 4: A function that frees a 2D array of ints previously created by your malloc_grid function
