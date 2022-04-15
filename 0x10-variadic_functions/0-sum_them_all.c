@@ -23,7 +23,7 @@ va_start(ap, n);
 
 for (; i < n; i++)
 {
-sum += va_arg(ap, int);
+sum = sum + va_arg(ap, int);
 }
 
 va_end(ap);
