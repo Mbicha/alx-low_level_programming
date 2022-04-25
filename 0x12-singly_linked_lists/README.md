@@ -6,5 +6,5 @@ Write a function that prints all the elements of a list_t list.
     If str is NULL, print [0] (nil)
     You are allowed to use printf
 
-
+Task 1: return number of node elements
     
