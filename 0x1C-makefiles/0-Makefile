@@ -1,5 +1,4 @@
-CC=gcc
-
+CC = gcc
 all: build_all
 
 build_all: main.c school.c
