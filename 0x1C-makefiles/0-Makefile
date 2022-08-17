@@ -1,5 +1,3 @@
 CC = gcc
-all: build_all
-
-build_all: main.c school.c
+all:
     ${CC} main.c school.c -o school
